@@ -56,9 +56,5 @@ public class CreateServlet extends HttpServlet {
             response.sendRedirect(request.getContextPath()+ "/index");
 
         }
-
-
-
     }
-
 }
